@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm
+package-lock.json
+
+# Optional npm cache directory
+.npm
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Files related to build outputs
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.old
+
+# MacOS specific files
+._*
