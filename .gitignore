@@ -1,38 +1,6 @@
-# Node modules
+# Ignora node_modules aunque no lo uses en este proyecto
 node_modules/
 
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS generated files
+# Ignora los archivos de configuración locales o específicos del sistema
 .DS_Store
 Thumbs.db
-
-# npm
-package-lock.json
-
-# Optional npm cache directory
-.npm
-
-# IDE specific files
-.vscode/
-.idea/
-
-# Files related to build outputs
-dist/
-build/
-
-# Temporary files
-*.tmp
-*.temp
-
-# Backup files
-*.bak
-*.old
-
-# MacOS specific files
-._*
